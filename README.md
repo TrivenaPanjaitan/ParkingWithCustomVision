@@ -21,7 +21,3 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/
 <br><br>
 <img src = "cv2.jpg">
 
-
-31-Jan-2022
-<br>
-Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger
